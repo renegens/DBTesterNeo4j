@@ -15,13 +15,13 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="Gradle: org.neo4j:neo4j-cypher-frontend-2.3:2.3.1">
+      <library name="Gradle: org.apache.lucene:lucene-core:3.6.2">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-cypher-frontend-2.3/2.3.1/6b1e67f1f753c6cf7d27b35e55c45aeb6b858c9d/neo4j-cypher-frontend-2.3-2.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/3.6.2/9ec77e2507f9cc01756964c71d91efd8154a8c47/lucene-core-3.6.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-cypher-frontend-2.3/2.3.1/c9310b91384042c77a6e458e8f94f9349a5f8f2/neo4j-cypher-frontend-2.3-2.3.1-sources.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/3.6.2/95e4667afb0ecd4f5b4136a24d3df3767c0d572c/lucene-core-3.6.2-sources.jar!/" />
         </SOURCES>
       </library>
     </orderEntry>
@@ -37,14 +37,23 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="Gradle: org.apache.lucene:lucene-core:3.6.2">
+      <library name="Gradle: org.neo4j:neo4j-cypher-frontend-2.3:2.3.1">
         <CLASSES>
-          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/3.6.2/9ec77e2507f9cc01756964c71d91efd8154a8c47/lucene-core-3.6.2.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-cypher-frontend-2.3/2.3.1/6b1e67f1f753c6cf7d27b35e55c45aeb6b858c9d/neo4j-cypher-frontend-2.3-2.3.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/3.6.2/95e4667afb0ecd4f5b4136a24d3df3767c0d572c/lucene-core-3.6.2-sources.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-cypher-frontend-2.3/2.3.1/c9310b91384042c77a6e458e8f94f9349a5f8f2/neo4j-cypher-frontend-2.3-2.3.1-sources.jar!/" />
         </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: mysql:mysql-connector-java:5.1.13">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.13/631249c6055be15a1fab26b3c28a3e5c6f3d97e0/mysql-connector-java-5.1.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
